@@ -1,0 +1,123 @@
+[
+  {
+    "Title": "Avatar",
+    "Year": "2009",
+    "Date": "2025-08-01",
+    "Genre": "Action, Adventure, Fantasy",
+    "imdbRating": "7.9",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzM2MDk3MTcyMV5BMl5BanBnXkFtZTcwNjg0MTUzNA@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+    "Description": "A paraplegic Marine, Jake Sully, is sent to the planet Pandora to infiltrate the Na'vi, a native species, and secure a valuable mineral. Through his avatar, he connects with the Na'vi, falls in love with Neytiri, and ultimately leads them in a battle against human exploitation.",
+    "Actors": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver", "Stephen Lang"]
+  },
+  {
+    "Title": "I Am Legend",
+    "Year": "2007",
+    "Date": "2025-08-02",
+    "Genre": "Drama, Horror, Sci-Fi",
+    "imdbRating": "7.2",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0MTI2NjMzMzFeQTJeQWpwZ15BbWU2MDMwNDc3OA@@._V1_.jpg",
+    "Description": "In a post-apocalyptic world ravaged by a virus that turns humans into nocturnal mutants, scientist Robert Neville, seemingly the last human, searches for a cure while surviving nightly attacks and bonding with his dog in New York City.",
+    "Actors": ["Will Smith", "Alice Braga", "Charlie Tahan", "Salli Richardson-Whitfield"]
+  },
+  {
+    "Title": "300",
+    "Year": "2006",
+    "Date": "2025-08-03",
+    "Genre": "Action, Drama, Fantasy",
+    "imdbRating": "7.7",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMwNTg5MzMwMV5BMl5BanBnXkFtZTcwMzA2NTIyMw@@._V1_SX1777_CR0,0,1777,937_AL_.jpg",
+    "Description": "King Leonidas leads 300 Spartans in a heroic stand against the massive Persian army led by Xerxes at the Battle of Thermopylae, showcasing brutal combat and unwavering courage in a visually stylized epic.",
+    "Actors": ["Gerard Butler", "Lena Headey", "David Wenham", "Dominic West"]
+  },
+  {
+    "Title": "The Avengers",
+    "Year": "2012",
+    "Date": "2025-08-04",
+    "Genre": "Action, Sci-Fi, Thriller",
+    "imdbRating": "8.1",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0NjY0NzE4OTReQTJeQWpwZ15BbWU3MDczODg2Nzc@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+    "Description": "Earth faces an alien invasion led by Loki, prompting Nick Fury to assemble a team of superheroes—Iron Man, Captain America, Thor, Hulk, Black Widow, and Hawkeye—to form the Avengers and save the world.",
+    "Actors": ["Robert Downey Jr.", "Chris Evans", "Chris Hemsworth", "Mark Ruffalo", "Scarlett Johansson", "Jeremy Renner"]
+  },
+  {
+    "Title": "The Wolf of Wall Street",
+    "Year": "2013",
+    "Date": "2025-08-05",
+    "Genre": "Biography, Comedy, Crime",
+    "imdbRating": "8.2",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg3MTY4NDk4Nl5BMl5BanBnXkFtZTgwNjc0MzQ4MDE@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
+    "Description": "Based on a true story, Jordan Belfort rises from a stockbroker to a wealthy, corrupt financier, indulging in drugs, sex, and excess while running scams, until his empire attracts the attention of the FBI.",
+    "Actors": ["Leonardo DiCaprio", "Jonah Hill", "Margot Robbie", "Matthew McConaughey"]
+  },
+  {
+    "Title": "Interstellar",
+    "Year": "2014",
+    "Date": "2025-08-06",
+    "Genre": "Adventure, Drama, Sci-Fi",
+    "imdbRating": "8.6",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3NTEwOTMxMV5BMl5BanBnXkFtZTgwMjMyODgxMzE@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
+    "Description": "In a future where Earth is dying, ex-pilot Cooper leads a team of astronauts through a wormhole to find a new habitable planet, facing time dilation, sacrifice, and the mysteries of space to save humanity.",
+    "Actors": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain", "Michael Caine"]
+  },
+  {
+    "Title": "Vikings",
+    "Year": "2013–",
+    "Date": "2025-08-07",
+    "Genre": "Action, Drama, History",
+    "imdbRating": "8.6",
+    "Type": "series",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMzMzIzOTU2M15BMl5BanBnXkFtZTgwODMzMTkyODE@._V1_SY1000_SX1500_AL_.jpg",
+    "Description": "This historical drama follows Ragnar Lothbrok, a legendary Norse hero, as he rises from farmer to king, leading Viking raids on England and beyond, exploring themes of ambition, family, and Norse mythology.",
+    "Actors": ["Travis Fimmel", "Katheryn Winnick", "Clive Standen", "Gustaf Skarsgård"]
+  },
+  {
+    "Title": "Gotham",
+    "Year": "2014–",
+    "Date": "2025-08-08",
+    "Genre": "Action, Crime, Drama",
+    "imdbRating": "8.0",
+    "Type": "series",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDI3ODYyODY4OV5BMl5BanBnXkFtZTgwNjE5NDMwMDI@._V1_SY1000_SX1500_AL_.jpg",
+    "Description": "Set in a gritty Gotham City before Batman’s rise, the series follows young detective James Gordon as he navigates crime, corruption, and the origins of iconic villains like Penguin, Riddler, and Catwoman.",
+    "Actors": ["Ben McKenzie", "David Mazouz", "Donal Logue", "Robin Lord Taylor"]
+  },
+  {
+    "Title": "Power",
+    "Year": "2014–",
+    "Date": "2025-08-09",
+    "Genre": "Crime, Drama",
+    "imdbRating": "8.0",
+    "Type": "series",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2ODg0MzMzM15BMl5BanBnXkFtZTgwODYxODA5NTE@._V1_SY1000_SX1500_AL_.jpg",
+    "Description": "James 'Ghost' St. Patrick, a wealthy nightclub owner and drug kingpin, tries to balance his criminal empire with his desire for a legitimate life, facing betrayal, family drama, and law enforcement.",
+    "Actors": ["Omari Hardwick", "Joseph Sikora", "Naturi Naughton", "Lela Loren"]
+  },
+  {
+    "Title": "Narcos",
+    "Year": "2015–",
+    "Date": "2025-08-10",
+    "Genre": "Biography, Crime, Drama",
+    "imdbRating": "8.9",
+    "Type": "series",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2NDUwMTU2NV5BMl5BanBnXkFtZTgwNTI1Mzc3OTE@._V1_SY1000_CR0,0,1499,1000_AL_.jpg",
+    "Description": "This crime drama chronicles the rise of Pablo Escobar and the Medellín Cartel, detailing the DEA’s efforts to capture him and the violent drug trade in Colombia during the late 20th century.",
+    "Actors": ["Wagner Moura", "Boyd Holbrook", "Pedro Pascal", "Joanna Christie"]
+  },
+  {
+    "Title": "Rogue One: A Star Wars Story",
+    "Year": "2016",
+    "Date": "2025-08-11",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "imdbRating": "7.8",
+    "Type": "movie",
+    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQyMzI2OTA3OF5BMl5BanBnXkFtZTgwNDg5NjQ0OTE@._V1_SY1000_CR0",
+    "Description": "Jyn Erso leads a ragtag group of rebels on a mission to steal the plans for the Death Star, the Empire’s ultimate weapon, in a standalone Star Wars story set before the events of A New Hope.",
+    "Actors": ["Felicity Jones", "Diego Luna", "Ben Mendelsohn", "Donnie Yen"]
+  }
+]

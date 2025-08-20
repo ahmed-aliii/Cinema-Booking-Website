@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Auth</title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="../normalize.css">
+  <link rel="stylesheet" href="../globalStyles.css">
+  <link rel="stylesheet" href="Authentication.css">
+
+<!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+</head>
+<body>
+  <!-- bg-video -->
+     <video autoplay muted loop class="video-bg">
+        <source src="../assets/bg-video2.mp4" type="video/mp4">
+    </video>
+
+  <div class="container" id="authContainer">
+    <div class="forms-wrapper">
+      <!-- Login Form -->
+      <form id="loginForm" novalidate>
+        <h2>Login</h2>
+
+        <div class="input-group">
+            <i class="fa-solid fa-envelope"></i>
+            <input type="email" id="loginEmail" name="email" placeholder="Enter your email" required>
+        </div>
+        <div class="error" id="emailError"></div>
+
+        <div class="input-group">
+          <i class="fa-solid fa-lock"></i>
+          <input type="password" id="loginPassword" name="password" placeholder="Enter your password" required>
+        </div>
+        <div class="error" id="passwordError"></div>
+
+        <button type="submit">Login</button>
+        <button type="button" class="toggle-btn" onclick="showRegister()">Don't have an account? Sign Up</button>
+      </form>
+
+      <!-- Register Form -->
+      <form id="registerForm" novalidate>
+        <h2>Sign Up</h2>
+
+        <div class="input-group">
+        <i class="fa-solid fa-user"></i>
+        <input type="text" id="name" name="name" placeholder="Enter your full name" required>
+      </div>
+      <div class="error" id="nameError"></div>
+
+      <div class="input-group">
+        <i class="fa-solid fa-envelope"></i>
+        <input type="email" id="registerEmail" name="email" placeholder="Enter your email" required>
+      </div>
+      <div class="error" id="registerEmailError"></div>
+
+      <div class="input-group">
+        <i class="fa-solid fa-lock"></i>
+        <input type="password" id="registerPassword" name="password" placeholder="Enter your password" required>
+      </div>
+      <div class="error" id="registerPasswordError"></div>
+
+        <button type="submit">Register</button>
+        <button type="button" class="toggle-btn" onclick="showLogin()">Already have an account? Login</button>
+      </form>
+    </div>
+  </div>
+
+  <script>
+    const container = document.getElementById("authContainer");
+
+    function showRegister() {
+      container.classList.add("show-register");
+    }
+
+    function showLogin() {
+      container.classList.remove("show-register");
+    }
+  </script>
+
+  <script src="Authentication.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,47 @@
+.container{
+    height: 100vh;
+    padding-top: 50px;
+}
+
+
+.movie-card {
+  display: flex;
+  gap: 20px;
+  max-width: 800px;
+  margin: 30px auto;
+  background: #EEE;
+  color: #f1f1f1;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+  overflow: hidden;
+
+}
+
+.movie-card .poster {
+  width: 400px;
+  object-fit: cover;
+  border-right: 4px solid #333;
+}
+.movies-details {
+    padding: 20px;
+    line-height: 2;
+}
+
+.movie-details .title {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: #007bff;
+}
+
+.movie-details p {
+  margin: 8px 0;
+}
+
+.movie-details i {
+  margin-right: 6px;
+  color: #007bff;
+}
+
+.movie-details .rating i {
+  color: #ff9900;
+}

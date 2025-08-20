@@ -1,0 +1,63 @@
+
+
+/* Container */
+.container {
+  max-width: 1000px;
+  margin: 40px auto;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+/* Poster */
+.container img {
+  max-width: 300px;
+  height: auto;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+/* Info Section */
+.movie-info {
+  flex: 1;
+}
+
+.movie-info h2 {
+  font-size: 28px;
+  margin-bottom: 10px;
+  color: #222;
+}
+
+.movie-info p {
+  margin: 8px 0;
+  font-size: 16px;
+}
+
+.movie-info .rating {
+  font-weight: bold;
+  color: #f39c12;
+}
+
+/* Book Button */
+.book-btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 24px;
+  font-size: 16px;
+  background: #e74c3c;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+
+.book-btn:hover {
+  background: #c0392b;
+}

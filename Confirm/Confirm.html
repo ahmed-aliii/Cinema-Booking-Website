@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select Seat</title>
+
+        <!-- Font Awosome  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" />
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="../globalStyles.css">
+    <link rel="stylesheet" href="../normalize.css">
+    <link rel="stylesheet" href="Confirm.css">
+    
+
+</head>
+<body>
+  <!-- NavBar -->
+        <nav>
+        <a href="../Home/Home.html"><i class="logo fa-solid fa-film"></i></a>
+        <i class="fas fa-bars menu-toggle" id="menuToggle" aria-label="Toggle menu"></i>
+        <ul id="navMenu">
+            <li><a href="../Home/Home.html"> Home </a></li>
+            <li><a href="../Landding/Landding.html"> Movies</a></li>
+            <li><a href="../MyMovies/MyMovies.html"> My Movies</a></li>
+            <li><a href="../Authentication/Authentication.html" class="logout">Logout</a></li>
+        </ul>
+        </nav>
+
+        <div class="screen" style=" text-align: center; margin-top: 40px;">
+            <i class="fa-solid fa-tv " style="font-size: 70px;" ></i>
+        </div>
+
+
+    <!-- Seats -->
+       <div class="seats" id="seats">
+    <!-- Seats will be Here -->
+        </div>
+
+    <div style="text-align: center;">
+            <button onclick="confirmBooking()" >Confirm Booking</button>
+        </div>
+    <script src="../Navbar.js"></script>
+    <script src="Confirm.js"></script>
+
+</body>
+</html>
